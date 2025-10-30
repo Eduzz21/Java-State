@@ -10,4 +10,4 @@ Cada estado define comportamentos diferentes para as ações possíveis no siste
 pagar() — registrar o pagamento do pedido.
 enviar() — despachar o pedido.
 entregar() — confirmar a entrega ao cliente.
-cancelar() — cancelar o pedido. esta coerente com o enunciado ?
+cancelar() — cancelar o pedido.
